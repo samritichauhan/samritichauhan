@@ -1,29 +1,33 @@
-# 👋 Hi, I'm Samriti Chauhan!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samriti%20Chauhan&fontSize=70&animation=twinkling&fontColor=fff&rotate=10"/>
+</div>
 
-Welcome to my GitHub profile. I’m passionate about technology, learning new things, and building creative projects.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6B5EF7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Samriti+Chauhan!+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning: new languages & frameworks.
-- 🔭 Projects: Personal repos and experiments.
-- 📫 Blog: [samritichauhaan](https://samritichauhaan)
-- 🎉 GitHub since: Feb 2024
+<div align="center">
+  <b>A Passionate Developer | Code Enthusiast | Learning & Growing</b>
+</div>
 
-## 📊 GitHub Stats
+<br>
 
-[![Samriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=samritichauhan&show_icons=true&theme=radical)](https://github.com/samritichauhan)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=samritichauhan&style=for-the-badge&color=6B5EF7" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Started-Feb%202024-6B5EF7?style=for-the-badge" alt="GitHub Journey"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-2025--11--09-6B5EF7?style=for-the-badge" alt="Last Updated"/>
+</div>
 
-## 🏆 Contribution Streak
+## 👩‍💻 About Me
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samritichauhan)](https://github.com/samritichauhan)
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-## 💻 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samritichauhan&layout=compact)](https://github.com/samritichauhan)
-
-## 🚦 Advanced Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samritichauhan)](https://git.io/awesome-stats-card)
-
----
-
-*These stats and graphs update automatically and show your language use, contribution history, and overall coding activity. For more visualizations, you can explore [GitHub Profile Visualizer](https://github.com/shashank2401/github-profile-visualizer) and [GithubTracker](https://githubtracker.com/).*
+```javascript
+const aboutSamriti = {
+    currentlyLearning: ["New Languages", "Frameworks"],
+    passions: ["Technology", "Learning", "Building Projects"],
+    projects: "Personal repos and experiments",
+    blog: "samritichauhaan",
+    timezone: "UTC",
+    funFact: "Started coding journey in Feb 2024! 🚀"
+};
